@@ -1,0 +1,29 @@
+package javacore.introducaoclasses.classes.dominio;
+
+public class Pessoa {
+    private String nome;
+    private int idade;
+
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getIdade() {
+        if (idade<0){
+            System.out.println("Idade invalida");
+        }
+            return idade;
+
+
+
+    }
+}
