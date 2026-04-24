@@ -1,6 +1,6 @@
-package javacore.introducaoclasses.metodo.test;
+package javacore.metodos.test;
 
-import javacore.introducaoclasses.metodo.dominio.Calculadora;
+import javacore.metodos.dominio.Calculadora;
 
 public class CalculadoraTest01 {
     public static void main(String[] args) {

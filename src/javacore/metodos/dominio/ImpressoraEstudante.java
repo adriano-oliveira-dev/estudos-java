@@ -1,4 +1,4 @@
-package javacore.introducaoclasses.metodo.dominio;
+package javacore.metodos.dominio;
 
 public class ImpressoraEstudante {
     public void imprime(Estudante estudante){

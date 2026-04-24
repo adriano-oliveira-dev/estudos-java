@@ -1,4 +1,4 @@
-package javacore.introducaoclasses.metodo.dominio;
+package javacore.metodos.dominio;
 
 import java.util.Scanner;
 
