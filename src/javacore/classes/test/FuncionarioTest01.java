@@ -1,6 +1,6 @@
-package javacore.introducaoclasses.classes.test;
+package javacore.classes.test;
 
-import javacore.introducaoclasses.classes.dominio.Funcionario;
+import javacore.classes.dominio.Funcionario;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {

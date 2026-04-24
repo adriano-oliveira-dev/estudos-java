@@ -1,6 +1,6 @@
-package javacore.introducaoclasses.classes.test;
+package javacore.classes.test;
 
-import javacore.introducaoclasses.classes.dominio.Estudante;
+import javacore.classes.dominio.Estudante;
 
 import java.util.Scanner;
 

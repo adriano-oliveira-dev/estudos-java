@@ -1,6 +1,6 @@
-package javacore.introducaoclasses.classes.test;
+package javacore.classes.test;
 
-import javacore.introducaoclasses.classes.dominio.Carro;
+import javacore.classes.dominio.Carro;
 
 public class TestCarro01 {
     public static void main(String[] args) {
