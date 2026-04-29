@@ -4,6 +4,9 @@ public class Jogador {
     private String nome;
     private Time time;
 
+    public Jogador(String nome){
+        this.nome=nome;
+    }
     public Time getTime() {
         return time;
     }
@@ -13,13 +16,8 @@ public class Jogador {
             System.out.println("Time: "+time.getNome());
         }
     }
-
     public void setTime(Time time) {
         this.time = time;
-    }
-
-    public Jogador(String nome){
-        this.nome=nome;
     }
 
     public String getNome() {
