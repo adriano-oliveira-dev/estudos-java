@@ -2,12 +2,24 @@ package javacore.Associacao.dominio;
 
 public class Jogador {
     private String nome;
+    private Time time;
+
+    public Time getTime() {
+        return time;
+    }
+    public void imprime(){
+        System.out.println("Nome: "+this.nome);
+        if (time!=null){
+            System.out.println("Time: "+time.getNome());
+        }
+    }
+
+    public void setTime(Time time) {
+        this.time = time;
+    }
 
     public Jogador(String nome){
         this.nome=nome;
-    }
-    public void imprime(){
-        System.out.println(this.nome);
     }
 
     public String getNome() {
