@@ -6,7 +6,9 @@ import javacore.Associacao.dominio.Professor;
 public class EscolaTest {
     public static void main(String[] args) {
         Professor professor1 = new Professor("Adriano");
-        Professor[] professores ={professor1};
+        Professor professor2 = new Professor("Adriana");
+
+        Professor[] professores ={professor1,professor2};
         Escola escola = new Escola("IFRN",professores);
 
         escola.imprime();
