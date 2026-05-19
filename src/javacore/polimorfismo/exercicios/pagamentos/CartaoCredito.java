@@ -1,8 +1,8 @@
 package javacore.polimorfismo.exercicios.pagamentos;
 
-public class CartãoCredito extends Pagamento{
+public class CartaoCredito extends Pagamento{
     private static final double TAXA_CARTAO = 0.02;
-    public CartãoCredito(double valor) {
+    public CartaoCredito(double valor) {
         super(valor);
     }
 
