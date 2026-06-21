@@ -55,5 +55,5 @@ Após consolidar a base da linguagem e orientação a objetos, os próximos tóp
 
 Desenvolvido por Adriano da Sila Oliveira! Se quiser trocar uma ideia sobre Java, backend ou oportunidades na área, vamos nos conectar:
 
-- **LinkedIn:** [Adriano Oliveira](www.linkedin.com/in/adriano-oliveira-a8336b387)
+- **LinkedIn:** www.linkedin.com/in/adriano-oliveira-a8336b387
 - **Email:** contatoworkadriano@gmail.com
